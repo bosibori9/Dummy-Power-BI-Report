@@ -1,0 +1,1 @@
+This is a report created by power BI using dummy data sets of students and test scores. I tried to explore the different scores according to states and districts , the impact of extracurricular activities on math scores, and the difference in reading scores between the year 2022 and 2023. This was done with a guide from Pragmatic Works.
